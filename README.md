@@ -7,7 +7,7 @@ Web Developer. Writer. Student.
 I'm a 22 year old French-Mexican Web Developer student in an apprenticeship program getting a masters degree as an expert in web development. Mainly focusing on frontend, I love building website and have always appreciated the creative part about coding. In my free time I like playing videogames, listening to music, exercising, writing and doing martial arts.
 
 * 🌍  I'm based in Rennes, FR
-* 🚀  I'm currently working on [Numa Health Pilot (apprenticeship)](http://https://patient.healthpilot.eu/)
+* 🚀  I'm currently working on [Numa Health Pilot (apprenticeship)](https://patient.healthpilot.eu/)
 * 🧠  I'm learning Angular, React and NodeJS.
 * ⚡  I can dance 8 hours in a row.
 
