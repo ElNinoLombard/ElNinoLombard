@@ -8,7 +8,7 @@ I'm a 23 year old French-Mexican Web Developer student in an apprenticeship prog
 
 * 🌍  I'm based in Rennes, FR
 * 🚀  I'm currently working on [Numa Health Pilot (apprenticeship)](https://patient.healthpilot.eu/)
-* 🧠  I'm learning Angular, React and NodeJS.
+* 🧠  I specialize in Angular, React and NodeJS.
 * ⚡  I can dance 8 hours in a row.
 
 <a href="https://www.twitch.tv/ninolombard" target="_blank" rel="noreferrer"><img
