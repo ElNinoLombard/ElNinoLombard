@@ -17,7 +17,7 @@ src="https://img.shields.io/twitch/status/ninolombard?logo=twitchsx&style=for-th
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,java,python,nodejs,nestjs,angular,reactjs,figma,postgresql,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,docker,java,python,nodejs,nestjs,angular,react,figma,postgresql,mysql" />
   </a>
 </p>
 
