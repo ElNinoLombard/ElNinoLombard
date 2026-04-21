@@ -4,11 +4,11 @@ Hi 👋 My name is Maxime Lombard González
 Web Developer. Writer. Student. Dancer.
 -------------------------------
 
-I'm a 25 year old French-Mexican Java / NodeJS/ Angular / Java Web Developer with a masters degree as an expert in web development. Mainly focusing on frontend, I love building website and have always appreciated the creative part about coding. In my free time I like playing videogames, listening to music, exercising, playing rugby, writing and doing martial arts.
+I'm a 25 year old French-Mexican NestJS / React / Angular / Java Web Developer with a masters degree as an expert in web development. Mainly focusing on frontend but keeping a great love for the backend, I love building apps and have always appreciated the creative part about coding. In my free time I like playing videogames, listening to music, exercising, playing rugby, writing and doing martial arts.
 
 * 🌍  I'm based in Bordeaux, FR
-* 🚀  I'm currently working on [Numa Health Pilot (apprenticeship)](https://patient.healthpilot.eu/)
-* 🧠  I specialize in Angular, Java / Springboot and NodeJS/NestJS.
+* 🚀  I'm currently working at [Neat (fullstack developper)](https://www.neat.eu/en)
+* 🧠  I specialize in React / React Router / Angular and NestJS.
 * ⚡  I can dance 8 hours in a row.
 
 <a href="https://www.twitch.tv/ninolombard" target="_blank" rel="noreferrer"><img
