@@ -4,7 +4,7 @@ Hi 👋 My name is Maxime Lombard González
 Web Developer. Writer. Student. Dancer.
 -------------------------------
 
-I'm a 25 year old French-Mexican NestJS / React / Angular / Java Web Developer with a masters degree as an expert in web development. Mainly focusing on frontend but keeping a great love for the backend, I love building apps and have always appreciated the creative part about coding. In my free time I like playing videogames, listening to music, exercising, playing rugby, writing and doing martial arts.
+I'm a 25 year old French-Mexican NestJS / React / Angular Web Developer with a masters degree as an expert in web development. Mainly focusing on frontend but keeping a great love for the backend, I love building apps and have always appreciated the creative part about coding. In my free time I like playing videogames, listening to music, exercising, playing rugby, writing and doing martial arts.
 
 * 🌍  I'm based in Bordeaux, FR
 * 🚀  I'm currently working at [Neat (fullstack developper)](https://www.neat.eu/en)
